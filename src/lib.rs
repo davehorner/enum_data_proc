@@ -224,5 +224,3 @@ pub fn derive_impl_ArithOp(item:TokenStream)->TokenStream{
     r.push_str(rem_oper.as_str());
     TokenStream::from_str(r.as_str()).expect("?")
 }
-
-tell me about this code

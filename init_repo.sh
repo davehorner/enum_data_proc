@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# Copyright 2025, dave horner
+#
+# HORNER conventions.
+
 # Exit immediately if any command exits with a non-zero status
 set -e
 

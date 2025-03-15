@@ -1,5 +1,10 @@
 #!/bin/bash
+
+# Copyright 2025, dave horner
+#
+# HORNER conventions.
 # undo_init.sh
+
 # This script will remove the Git repository and any initialization files
 # created by init_repo.sh. This operation is irreversible.
 
